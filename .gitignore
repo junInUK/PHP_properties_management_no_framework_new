@@ -1,4 +1,9 @@
-./uploads
-./vendor
-./config.php
+### support folder###
+uploads/
+vendor/
+
+### config file ###
+config.php
+
+### vs code ###
 .DS_Store
